@@ -1,12 +1,6 @@
-[submodule "ts-js-module/ts/tRPC-React"]
-	path = ts-js-module/ts/tRPC-React
-	url = git@github.com:hd719/tRPC-Express-React.git
 [submodule "ts-js-module/ts/TS"]
 	path = ts-js-module/ts/TS
 	url = git@github.com:hd719/TS.git
-[submodule "ts-js-module/ts/ts-comprehensive"]
-	path = ts-js-module/ts/ts-comprehensive
-	url = git@github.com:hd719/ts-comprehensive.git
 [submodule "react/useExternalStore"]
 	path = react/useExternalStore
 	url = git@github.com:hd719/useExternalStore-React.git
