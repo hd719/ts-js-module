@@ -10,3 +10,6 @@
 [submodule "js/useful-functions"]
 	path = js/useful-functions
 	url = git@github.com:hd719/useful-functions.git
+[submodule "ts/ts-comprehensive"]
+	path = ts/ts-comprehensive
+	url = git@github.com:hd719/ts-comprehensive.git
